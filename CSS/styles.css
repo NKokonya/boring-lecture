@@ -7,12 +7,12 @@ h2.intro {
 
 p.intro {
   font-family: sans-serif;
-  font-size: 25gipx;
+  font-size: 25px;
   font-weight: normal;
   color: black;
 }
 
 img.intro {
   max-width: 100%;
-  max-height: 100%
+  max-height: 100%;
 }
